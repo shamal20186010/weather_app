@@ -81,7 +81,7 @@ body::before {
     cursor: pointer;
 }
 
-.wheather-info {
+.weather-info {
     display: flex;
     flex-direction: column;
     gap: 25px;
@@ -100,25 +100,25 @@ body::before {
     margin-left: 10%;
 }
 
-.wheather-summary-container {
+.weather-summary-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.wheather-summary-img {
+.weather-summary-img {
     width: 200px;
     height: 200px;
     margin-left: 20%;
 }
 
-.wheather-summary-info {
+.weather-summary-info {
     text-align: end;
     margin-right: 30%;
 }
 
 
-.wheather-conditions-container {
+.weather-conditions-container {
     display: flex;
     justify-content: space-between;
 }

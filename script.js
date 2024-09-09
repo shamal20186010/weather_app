@@ -1,7 +1,7 @@
 const cityInput = document.querySelector('.city-input')
 const searchBtn = document.querySelector('.search-btn')
 
-const weatherInfoSection = document.querySelector('.wheather-info')
+const weatherInfoSection = document.querySelector('.weather-info')
 const notFoundSection = document.querySelector('.not-found')
 const searchCitySecton = document.querySelector('.search-city')
 
@@ -10,7 +10,7 @@ const tempTxt = document.querySelector('.temp-txt')
 const conditionTxt = document.querySelector('.condition-txt')
 const humidityValueTxt = document.querySelector('.humidity-value-txt')
 const windValueTxt = document.querySelector('.wind-value-txt')
-const weatherSummerImg = document.querySelector('.wheather-summary-img')
+const weatherSummerImg = document.querySelector('.weather-summary-img')
 const currentDadeTxt = document.querySelector('.current-date-txt')
 
 const forecastItemContainer = document.querySelector('.forecast-items-container')
